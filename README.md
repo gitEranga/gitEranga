@@ -2,7 +2,7 @@
 # I am Eranga Kodithuwakku, 
 ### a final year undergraduate of University of Jaffna pursueing Bachellors Degree in Science (Hons) in Applied Science Specialising in Computing.
 
-##  - 🔭 I’m currently working at Idea Factory Pvt. Ltd. as a React Developer - Part time Intern.
-##  - 🌱 I’m currently learning DevOps & ML Model Deployment at NirvanaClouds Academy.
-##  - 👯 I’m looking for an Internship to Complete my B.Sc.(Hons) Degree.
+##  - 🔭 I’m currently working at VizuaMatix (Pvt) Ltd as Trainee Systems & DevOps Engineer.
+## I Just finish my 06 month internship as Systems & DevOps Intern there.
+##  - 🌱 I’m currently learning AWS services in orderto certified as AWS Solution Architect Associate.
 
