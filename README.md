@@ -1,6 +1,8 @@
 # Hi there 👋
 # I am Eranga Kodithuwakku, 
-### Systems & DevOps Engineer at VizuaMatix (Pvt) Ltd.
-### Completed Bachellors Degree in Science (Hons) in Applied Science Specialising in Computing at University of Jaffna.
+### Associate Technical Support Engineer at OpusXenta Ldt.
+### Graduated from University of Jaffna with Bachellors Degree in Science (Hons) in Applied Science Specialising in Computing.
 
-##  - 🌱 I’m currently learning AWS services in orderto certified as AWS Solution Architect Associate.
+##  - 🌱 I’m currently mastering AWS services in order to certified as AWS Solution Architect Associate.
+
+## Previous Experience: Trainee Systems & DevOps Engineer at VizuaMatix (Pvt) Ltd.
